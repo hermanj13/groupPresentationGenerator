@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/hermanj13/groupPresentationGenerator/issues"
   },
-  "homepage": "https://github.com/hermanj13/groupPresentationGenerator#readme"
+  "homepage": "https://github.com/hermanj13/groupPresentationGenerator#readme",
+  "dependencies": {
+    "inquirer": "^4.0.0"
+  }
 }
